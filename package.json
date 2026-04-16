@@ -1,0 +1,15 @@
+{
+  "name": "finassess-encuesta-web",
+  "version": "1.0.0",
+  "description": "FinAssess - Encuesta web de diagnóstico financiero",
+  "type": "module",
+  "scripts": {
+    "test": "vitest --run"
+  },
+  "devDependencies": {
+    "fast-check": "^3.0.0",
+    "vitest": "^1.0.0",
+    "@vitest/coverage-v8": "^1.0.0",
+    "jsdom": "^24.0.0"
+  }
+}
